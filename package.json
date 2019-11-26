@@ -1,0 +1,19 @@
+{
+  "name": "@aleciambarella/segoe-mdl2",
+  "version": "1.0.0",
+  "description": "Módulo criado para importar a fonte Segoe-MDL2 na Web. (css)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "segoe-mdl2",
+    "mdl2-font",
+    "mdl2-ui-assets",            
+    "microsoft-assets"    
+  ],
+  "author": "Alessandro Ciambarella",
+  "license": "GPL-2.0-or-later",
+  "bugs": "aciambarella@hotmail.com",
+  "homepage": "https://github.com.br/aleciambarella"
+}
